@@ -5,6 +5,6 @@ It takes an input for age from Jacob's commit.
 Then the does Something from Troy's commit is that strings are created and a final string is printed with the two inputs.
 
 Group Members:
-Troy Reinhardt
-Zachariah Feerrar
-Jacob Gudich
+Troy Reinhardt(@treinh17)
+Zachariah Feerrar(@zaf22)
+Jacob Gudich(@JJG125)
