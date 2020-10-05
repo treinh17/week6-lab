@@ -1,0 +1,7 @@
+Why did we choose what we did?
+
+License - We chose this specific license because it ensures the program is free and can be shared.
+
+
+Code of Conduct - We chose this particular code of conduct, the Contributor Covenant, because it is one of the most common and well known codes of conduct for open source projects.
+The main idea behind this particular code of conduct, which we would like to follow, is that anyone can contribute and be involved in the project as long as they are respectful to everyone else involved.
